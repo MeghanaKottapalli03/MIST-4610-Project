@@ -1,10 +1,10 @@
 # MIST-4610-Project
 
 # Team Members:
-1. Andrea Lam @anl13369
-2. Sierra Cross-Thompson @sierract
-3. Meghana Kottapalli @meghanakottapalli03
-4. Cecilia Rizo-Patron @cecirp
+1. Andrea Lam [@anl13369](https://github.com/anl13369)
+2. Sierra Cross-Thompson [@sierract](https://github.com/sierract)
+3. Meghana Kottapalli [@meghanakottapalli03](https://github.com/MeghanaKottapalli03)
+4. Cecilia Rizo-Patron [@cecirp](https://github.com/cecirp)
 
 # Scenario Description
 Wildflower Boutique is an e-retail store specializing in women’s clothing and accessories with locations all across the world, serving teenagers and young adults. Wildflower Boutique believes that designing a database can help efficiently track important information related to managing online sales and tracking consumer satisfaction. This database will help streamline operations, allow the owners to understand their customers’ desires, and provide prompt customer support.
