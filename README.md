@@ -78,8 +78,9 @@ Query 5: List customers whose zip code start with 9 and who have more than 5000 
 
 Query 6: Select the top 5 highest rated products.
 
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/c6577b47-c149-4a6d-9e53-14444fa51f74" />
 
-
+Query 6 allows the customers and employees to view which products are the most popular. This can then lead to higher revenue for said products, but can also allow customers to view our bestsellers, which are guaranteed to be of good quality, good fit, and flattering.
 
 Query 7: Find the percentage of orders that have had customer support tickets.
 
@@ -100,3 +101,10 @@ Query 9: List the names of all customers in the Silver Loyalty Level tier and li
 
 
 Query 10:  List how many items each customer has in their cart.
+
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/870306d3-8b1a-47d8-874f-8378663a7cf1" />
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/36cb17eb-d769-4330-b516-3cd3b58b0b56" />
+
+Query 10 allows the customers to see how many items they have in their cart at one time, which can then lead to them being able to view their cart’s subtotal. This can influence a customer’s decision to then add or remove items based on their budget or need for certain items. This is also critical data on our end as we can see compare the frequency at which people add items to their carts relative to how often they actually purchase. We want this information to determine what our most profitable items are and help prioritize releasing similar items that will also perform well.
+
+
