@@ -60,6 +60,7 @@ Query 2:  List the products that are in a customers cart where the price of the 
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/54afca61-5070-46de-b4ac-83b9c19b9e98" />
 
+Query 2 identifies the products in the customer’s carts that are priced higher than the average price of all products in the boutique. By comparing each product’s price against the store’s average, the query highlights premium items that customers are considering. The utility lied in helping the firm track which higher-priced items are popular with customers, potentially guiding future inventory, promotions, and pricing strategies of the firm. 
 
 
 Query 3: List the orders that have been fully shipped (Status = Completed) and were paid for in January of 2024.
@@ -72,6 +73,7 @@ Query 4: Determine the monetary value of all the current carts.
 
 <img width="855" alt="image" src="https://github.com/user-attachments/assets/2a4d5661-abee-4a04-b065-99d7ed11cffe" />
 
+Query 4 looks at the value of current carts that customers created. This is important data to have as it demonstrates all the potential revenue the firm could bring in. Analyzing this data could shed light onto popular items as compared to popularly purchased items. This is important to look at since there could be factors discouraging actual purchasing, like the price being too high.
 
 
 Query 5: List customers whose zip code start with 9 and who have more than 5000 loyalty points.
