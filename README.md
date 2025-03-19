@@ -47,3 +47,52 @@ All of the entities in this model were created to track the relationship the bou
 <img width="663" alt="Screenshot 2025-03-18 at 9 34 15 PM" src="https://github.com/user-attachments/assets/d5d035a6-6a7f-42cb-b20c-212f897ec50a" />
 <img width="658" alt="Screenshot 2025-03-18 at 9 34 33 PM" src="https://github.com/user-attachments/assets/5a56f285-864e-4685-b709-5b3ffe0648ae" />
 <img width="662" alt="Screenshot 2025-03-18 at 9 35 04 PM" src="https://github.com/user-attachments/assets/04539f51-a8ab-434d-9eb8-9f4243826d6c" />
+
+# Queries
+
+Query 1: List the customerID and names of customers who have the most loyalty points. Order by descending order. 
+
+
+
+
+Query 2:  List the products that are in a customers cart where the price of the product is greater than the average price of all products sold in the boutique.
+
+
+
+
+Query 3: List the orders that have been fully shipped (Status = Completed) and were paid for in January of 2024.
+
+
+
+
+Query 4: Determine the monetary value of all the current carts.
+
+
+
+
+Query 5: List customers whose zip code start with 9 and who have more than 5000 loyalty points.
+
+
+
+
+Query 6: Select the top 5 highest rated products.
+
+
+
+
+Query 7: Find the percentage of orders that have had customer support tickets.
+
+
+
+
+Query 8: Count the number of customers who have never left a review before.
+
+
+
+
+Query 9: List the names of all customers in the Silver Loyalty Level tier and live in the South/Southeast United States.
+
+
+
+
+Query 10:  List how many items each customer has in their cart.
