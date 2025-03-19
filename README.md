@@ -58,6 +58,7 @@ Query 1 helps us to identify which customers have the highest loyalty points. Cu
 
 Query 2:  List the products that are in a customers cart where the price of the product is greater than the average price of all products sold in the boutique.
 
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/54afca61-5070-46de-b4ac-83b9c19b9e98" />
 
 
 
@@ -69,6 +70,7 @@ Query 3 Helps us understand which orders were fully delivered and paid for in Ja
 
 Query 4: Determine the monetary value of all the current carts.
 
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/2a4d5661-abee-4a04-b065-99d7ed11cffe" />
 
 
 
@@ -83,6 +85,9 @@ Query 6: Select the top 5 highest rated products.
 <img width="475" alt="image" src="https://github.com/user-attachments/assets/c6577b47-c149-4a6d-9e53-14444fa51f74" />
 
 Query 6 allows the customers and employees to view which products are the most popular. This can then lead to higher revenue for said products, but can also allow customers to view our bestsellers, which are guaranteed to be of good quality, good fit, and flattering.
+
+
+
 
 Query 7: Find the percentage of orders that have had customer support tickets.
 
