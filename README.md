@@ -32,7 +32,8 @@ All of the entities in this model were created to track the relationship the bou
 
 ![FINALCOPY](https://github.com/user-attachments/assets/8fd9fde7-b582-4457-a889-3dc074d4eed1)
 
-#Data Dictionary:
+# Data Dictionary
+
 <img width="667" alt="Screenshot 2025-03-18 at 9 27 47 PM" src="https://github.com/user-attachments/assets/f123adf7-948d-4970-b1e6-2f14b58d67f2" />
 <img width="661" alt="Screenshot 2025-03-18 at 9 28 26 PM" src="https://github.com/user-attachments/assets/4ca022fe-ddf1-4285-a06f-4f34e712beb6" />
 <img width="653" alt="Screenshot 2025-03-18 at 9 29 46 PM" src="https://github.com/user-attachments/assets/dd877c69-13a5-4682-9084-17b524429818" />
