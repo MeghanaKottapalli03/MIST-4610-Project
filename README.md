@@ -30,7 +30,7 @@ Lastly, a feature of the Wildflower Boutique is that customers can leave feedbac
 
 All of the entities in this model were created to track the relationship the boutique has with the customer. It is important as a business that we are able to track customer interactions with the boutique to fulfill demand and anticipate changes in customer needs. Tracking the order from the boutique to the customer door and even to the customer review helps a business owner maintain a good relationship with customers and allows us to quickly solve any issues. This will help create a sustainable consumer experience.
 
-![FINALCOPY](https://github.com/user-attachments/assets/8fd9fde7-b582-4457-a889-3dc074d4eed1)
+![ACTUALFINALCOPY](https://github.com/user-attachments/assets/c809e5ca-6a3f-41d5-8f00-d2160259affe)
 
 # Data Dictionary
 
