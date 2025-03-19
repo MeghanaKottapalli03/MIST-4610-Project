@@ -1,6 +1,6 @@
 # MIST-4610-Project
 
-# Team Members:
+# Group 7 Team Members:
 1. Andrea Lam [@anl13369](https://github.com/anl13369)
 2. Sierra Cross-Thompson [@sierract](https://github.com/sierract)
 3. Meghana Kottapalli [@meghanakottapalli03](https://github.com/MeghanaKottapalli03)
@@ -117,5 +117,10 @@ Query 10:  List how many items each customer has in their cart.
 <img width="268" alt="image" src="https://github.com/user-attachments/assets/36cb17eb-d769-4330-b516-3cd3b58b0b56" />
 
 Query 10 allows the customers to see how many items they have in their cart at one time, which can then lead to them being able to view their cart’s subtotal. This can influence a customer’s decision to then add or remove items based on their budget or need for certain items. This is also critical data on our end as we can see compare the frequency at which people add items to their carts relative to how often they actually purchase. We want this information to determine what our most profitable items are and help prioritize releasing similar items that will also perform well.
+
+Database information:
+Name of the database: ns_Group7
+
+All queries listed above are in the database using stored procedures which can be called using the format: CALL TP_Q1();
 
 
