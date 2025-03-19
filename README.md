@@ -106,7 +106,9 @@ Query 8 gauges the after purchase behavior of customers in our firm. We want to 
 
 Query 9: List the names of all customers in the Silver Loyalty Level tier and live in the South/Southeast United States.
 
+<img width="705" alt="image" src="https://github.com/user-attachments/assets/2724eff9-d366-43a1-b084-f6ebbf2aa1eb" />
 
+Query 9 looks at the customers in the South and Southeastern United States who belong to the silver tier list. This query is useful for targeted marketing projects, customer segmentation, and regional analysis since it helps assess the relative engagement our company has in each region. This is especially important considering loyalty tiers are based on online engagement on the website. We can use these results to focus our efforts in engaging more potential customers and loyalty members across the United States by increasing regional advertising and beginning promotions in less popular areas. This query ultimately helps us understand the distribution of loyal customers to our firm.
 
 
 Query 10:  List how many items each customer has in their cart.
