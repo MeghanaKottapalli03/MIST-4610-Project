@@ -118,7 +118,7 @@ Query 10:  List how many items each customer has in their cart.
 
 Query 10 allows the customers to see how many items they have in their cart at one time, which can then lead to them being able to view their cart’s subtotal. This can influence a customer’s decision to then add or remove items based on their budget or need for certain items. This is also critical data on our end as we can see compare the frequency at which people add items to their carts relative to how often they actually purchase. We want this information to determine what our most profitable items are and help prioritize releasing similar items that will also perform well.
 
-Database information:
+# Database information:
 Name of the database: ns_Group7
 
 All queries listed above are in the database using stored procedures which can be called using the format: CALL TP_Q1();
