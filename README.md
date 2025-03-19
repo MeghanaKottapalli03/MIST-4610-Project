@@ -52,8 +52,9 @@ All of the entities in this model were created to track the relationship the bou
 
 Query 1: List the customerID and names of customers who have the most loyalty points. Order by descending order. 
 
+![Screenshot 2025-03-18 232408](https://github.com/user-attachments/assets/c45195c3-bf42-48c0-9222-93171030e0a9)
 
-
+Query 1 helps us to identify which customers have the highest loyalty points. Customers with the highest loyalty points are likely frequent buyers and highly engaged with the business. With this information, the boutique can identify which customers to target for special promotions, such as special perks, exclusive discounts, etc. in order to reward them and show appreciation. It also helps us to understand loyalty members’ behavior, which allows the boutique to tailor the program and personalize offers. 
 
 Query 2:  List the products that are in a customers cart where the price of the product is greater than the average price of all products sold in the boutique.
 
@@ -73,8 +74,9 @@ Query 4: Determine the monetary value of all the current carts.
 
 Query 5: List customers whose zip code start with 9 and who have more than 5000 loyalty points.
 
+![Screenshot 2025-03-18 232744](https://github.com/user-attachments/assets/c53cd8a4-8544-4a8a-9ef6-27a6105e5b42)
 
-
+Query 5 looks at the loyalty rewards members with more than 5000 loyalty points in an area with a ZIP code starting with ‘9’. This helps the boutique to identify the high-value rewards members in a specific geographic region, specifically West Coast Regions, such as California and Alaska. With this information, the boutique can identify whether customers in this ZIP code region have different buying habits compared to other regions and can tailor promotions, product offerings, and more to this particular area. Additionally, if many high-value members are concentrated in this area, it can help the boutique to decide whether or not to launch localized marketing campaigns to further increase sales in this specific ZIP code region. 
 
 Query 6: Select the top 5 highest rated products.
 
