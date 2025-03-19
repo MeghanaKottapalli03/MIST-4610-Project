@@ -62,8 +62,9 @@ Query 2:  List the products that are in a customers cart where the price of the 
 
 Query 3: List the orders that have been fully shipped (Status = Completed) and were paid for in January of 2024.
 
+<img width="490" alt="image" src="https://github.com/user-attachments/assets/1aa53f12-f131-4a43-b036-7b57f4a58d3c" />
 
-
+Query 3 Helps us understand which orders were fully delivered and paid for in January of 2024. This is important to a business because as an online store, it can be easy to lose track of what payments have been fulfilled, and thereby have lots of uncollectible revenues (bad debt). By tracking January specifically, a business can reflect on the first month of operations in a new year and adjust accordingly to meet any challenges or issues faced.
 
 Query 4: Determine the monetary value of all the current carts.
 
@@ -82,13 +83,16 @@ Query 6: Select the top 5 highest rated products.
 
 Query 7: Find the percentage of orders that have had customer support tickets.
 
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/b929103f-44a1-48d8-a56d-c74b8bdd5164" />
 
+Query 7 allows us to see what percentage of our orders require Customer Support. The higher this percentage is, the more we need to reevaluate what shipping carriers we use, which manufacturers we use, and our over customer relations system. This allows us to keep an overall outlook on our responsiveness to customer needs and allows us to create more queries when needed to solve individual customer needs. It can also help us detect any negative patterns in our business that may be attributed to different factors like management or local delivery services.
 
 
 Query 8: Count the number of customers who have never left a review before.
 
+<img width="442" alt="image" src="https://github.com/user-attachments/assets/28d244c5-4138-4e56-8551-547b7f2e6b07" />
 
-
+Query 8 gauges the after purchase behavior of customers in our firm. We want to understand how engaged customers are and how motivated they are to comment after they receive their goods, whether it be a positive or negative review. Engagement translates as it is often only the most emotionally impacted customers that leave a voluntary review.The firm may use this data to establish incentives to post reviews as more commentary may incentivize other users to purchase when they see a product is reliable and widely enjoyed.
 
 Query 9: List the names of all customers in the Silver Loyalty Level tier and live in the South/Southeast United States.
 
